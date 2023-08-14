@@ -1,4 +1,3 @@
-# IP Discussions
 
 ## by Sherin Priyan
 
