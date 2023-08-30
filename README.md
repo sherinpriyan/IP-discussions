@@ -8,4 +8,5 @@ Hello!
 
 I am Sherin Priyan, currently a doctoral candidate at RGSoIPL, IIT Kharagpur. 
 
-My research focuses on Intellectual Property, antitrust, and innovation. This Github page aims at 
+My research focuses on Intellectual Property, antitrust, and innovation. This Github page aims at exploring the countours of intellectual property with other areas of law. 
+The first of this would be IP and Contract Law.
